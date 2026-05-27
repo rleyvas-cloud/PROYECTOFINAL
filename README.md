@@ -1,30 +1,31 @@
-Problemática central
-Alta vulnerabilidad de materiales metálicos
 
-Los blindajes, chasis y sistemas de transmisión están expuestos a humedad, salinidad, barro y agentes químicos.
+###  Problemática principal
+1. **Ambientes tropicales húmedos altamente agresivos**  
+   - La combinación de **alta humedad relativa (HR)**, temperaturas constantes y largos tiempos de humectación favorece la corrosión continua en las superficies metálicas.  
+   - En interiores (naves, túneles, silos) la humedad puede superar el 85–95%, generando condiciones de corrosión prácticamente permanentes .
 
-Ambientes extremos (selva, costa, desierto) aceleran el desgaste.
+2. **Influencia de factores climáticos y ambientales**  
+   - **Precipitaciones**: aumentan el tiempo de humectación y disuelven capas protectoras de óxidos, dejando expuesto el metal.  
+   - **Vientos**: transportan contaminantes y aerosoles marinos, que aceleran la corrosión.  
+   - **Aerosol marino**: en países costeros como Cuba y el Caribe, los iones cloruros provenientes del mar son una de las principales causas de agresividad atmosférica .
 
-Impacto en la confiabilidad operativa
+3. **Contaminantes químicos**  
+   - Gases como dióxido de azufre (SO₂), dióxido de nitrógeno (NO₂), ozono (O₃) y cloruro de hidrógeno (HCl) generan ambientes ácidos que aceleran la corrosión metálica.  
+   - En zonas industriales y urbanas, la presencia de estos contaminantes multiplica las pérdidas por corrosión .
 
-La corrosión reduce el MTBF (tiempo medio entre fallas).
+4. **Impacto logístico y económico**  
+   - La corrosión reduce el **MTBF (tiempo medio entre fallas)** y aumenta el **MTTR (tiempo medio de reparación)**.  
+   - Esto implica más horas de mantenimiento, mayor consumo de repuestos y un incremento significativo en los costos de operación.  
+   - Se compromete la **disponibilidad táctica** de los vehículos en misiones críticas.
 
-Incrementa el MTTR (tiempo medio de reparación), generando más horas en talleres y menos disponibilidad en campo.
+5. **Deficiencia en sistemas de protección tradicionales**  
+   - Los diseños anticorrosivos no siempre se adaptan a las condiciones extremas del clima tropical húmedo.  
+   - Se requiere la implementación de sistemas especializados como **DUCAR** y **DUCARFAR**, desarrollados en Cuba, que prolongan la vida útil de los carros militares y reducen costos .
 
-Se compromete la capacidad táctica de respuesta rápida.
+---
 
-Costos logísticos elevados
+### En conclusión
+La problemática de la corrosión en vehículos militares es **multifactorial**: depende del clima, la humedad, los contaminantes y la falta de sistemas de protección adecuados. Esto genera un **impacto directo en la capacidad combativa y logística del ejército**, obligando a invertir en soluciones tecnológicas y químicas avanzadas para garantizar la sostenibilidad de las operaciones.
 
-Mayor consumo de repuestos y materiales de mantenimiento.
 
-Incremento del presupuesto destinado a reparaciones correctivas.
 
-Dificultad para sostener operaciones prolongadas.
-
-Deficiencias en la gestión preventiva
-
-Falta de protocolos estandarizados de protección anticorrosiva.
-
-Escasa capacitación técnica en diagnóstico químico y uso de recubrimientos modernos.
-
-Dependencia de métodos reactivos en lugar de predic
